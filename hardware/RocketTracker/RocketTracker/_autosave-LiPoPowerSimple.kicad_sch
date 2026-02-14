@@ -6369,10 +6369,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a7eabf72-d46c-4326-8c13-e06e5602f03c")
 		(property "Reference" "R211"
-			(at 208.28 58.42 90)
+			(at 208.28 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6380,7 +6379,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 208.28 60.96 90)
+			(at 208.28 62.738 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7518,7 +7517,7 @@
 		(dnp no)
 		(uuid "d3bfb9e6-eb50-456e-8871-9581db07889a")
 		(property "Reference" "R204"
-			(at 68.58 115.57 0)
+			(at 69.85 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
