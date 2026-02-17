@@ -2458,6 +2458,12 @@
 		(uuid "12be4980-5046-4164-b9f6-a5387a9e2380")
 	)
 	(junction
+		(at 111.76 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "14e37759-1fc2-4864-a2b8-0b79951d9e41")
+	)
+	(junction
 		(at 229.235 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2860,6 +2866,16 @@
 			(type default)
 		)
 		(uuid "2f35c125-f9a4-4a4a-bbe4-1b50a122560b")
+	)
+	(wire
+		(pts
+			(xy 107.95 52.07) (xy 111.76 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3041f9b1-4995-4a81-83cf-6c4edd0e77a3")
 	)
 	(wire
 		(pts
@@ -3812,6 +3828,17 @@
 			(justify right)
 		)
 		(uuid "a859c6cf-ae43-41a2-a543-6474ce785faa")
+	)
+	(hierarchical_label "MCPOUT"
+		(shape input)
+		(at 107.95 52.07 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ea73ccc6-1f0e-48c4-b3c5-86b62f700981")
 	)
 	(symbol
 		(lib_id "Device:LED")
